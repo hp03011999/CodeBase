@@ -1,0 +1,362 @@
+@media screen and (min-width:320px) and (max-width:570px) {
+
+    header
+    {
+        display: none !important;
+    }
+    .earth
+    {
+        flex-direction: column;
+        margin: 0 !important;
+    }
+    .earth2
+    {
+        margin-left: 50px;
+    }
+    .earth1
+    {
+        margin: 0 !important;
+        height: unset !important;
+        width: 385px !important;
+    }
+    .venus1
+    {
+        flex-direction: column;
+    }
+    .mars1
+    {
+        flex-direction: column;
+    }
+    
+    .jupiter2
+    {
+        flex-direction: column;
+        margin: 0 !important    ;
+    }
+    .jupiter{
+        width: 388px !important;
+    }
+    .jupiter3
+    {
+        margin-top: 30px !important;
+        width: unset !important;
+        height: unset !important;
+        padding: 0px !important;
+        margin:10px !important;
+    }
+    .saturn1 h1
+    {
+        padding: 20px !important;
+    }
+    .saturn2
+    {
+        flex-direction: column;
+    }
+    .saturn3{
+        width: unset !important;
+    }
+    .uranus
+    {
+        margin: 0 !important;
+    }
+    .uranus1
+    {
+        flex-direction: column;
+        padding: 0 !important;
+    }
+    .uranusmain
+    {
+        flex-direction: column;
+    }
+    .neptunehead
+    {
+        padding: 20px !important;
+    }
+    .neptune1
+    {
+        flex-direction: column;
+    }
+    .bottom
+    {
+        height: unset !important;
+    }
+    .wall
+    {
+        flex-direction: column;
+        padding: 0 !important;
+    }
+    .uranusimg
+    {
+        width: unset !important;
+        height: unset !important;
+    }
+    .bottom h1
+    {
+        padding: 20px !important;
+    }
+    .earth2
+    {
+        width: unset !important;
+        margin: 20px !important;
+    }
+}
+
+/* *************************codebase.html file 320px to 570px COMPLETED************************************* */
+
+
+@media screen and (min-width:571px) and (max-width:720px) {
+    header{
+        flex-direction: column !important;
+        padding: 0px !important;
+    }
+    .earth{
+        flex-direction: column;
+        margin-top: 81px !important;
+    }
+    .earth1{
+        width: unset !important;
+        height: unset !important;
+        margin: 0px !important;
+    }
+    .earth2{
+        width: unset !important;
+        margin: 20px !important;
+    }
+    .venus1{
+        flex-direction: column;
+        margin: 30px 20px !important;
+        padding: 10px 10px !important;
+    }
+    .mars{
+        margin: 0px !important;
+    }
+    .mars1{
+        flex-direction: column;
+    }
+    .mars2{
+        margin: 10px 10px !important;
+    }
+    .jupiter2 {
+        flex-direction: column;
+        margin: 0px !important;
+    }
+    .saturn1 h1{
+        padding: 0px !important;
+    }
+    .saturn2{
+        flex-direction: column;
+        margin: 0px !important;
+    }
+    .saturn3{
+        width: unset !important;
+    }
+    .uranusmain{
+        flex-direction: column !important;
+    }
+    .uranus1{
+        flex-direction: column;
+        padding: 0px !important;
+    }
+    .neptunehead {
+        padding: 0px !important;
+    }
+    .bottom h1{
+        padding: 32px 0px 0px 24px !important;
+    }
+    .wall{
+        flex-direction: column;
+        padding: 30px !important;
+    }
+}
+
+/* *************************codebase.html file 571px to 720px COMPLETED************************************* */
+
+@media screen and (min-width:320px) and (max-width:570px) {
+    
+    .main{
+        flex-direction: column;
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .father{
+        width: unset !important;
+        margin: 30px 15px !important;
+    }
+    .image{
+        left: 92px !important;
+    }
+    .heading{
+        width: unset !important;
+        height: unset !important;
+        padding: 0px !important;
+    }
+    .godfather1{
+        margin: 18px 0px 33px 0px !important;
+    }
+    .iconi{
+        margin: -30px 0px 0px 18px !important;
+    }
+    .bottom{
+        padding-bottom: 20px !important;
+        margin-top: 55px !important;
+    }
+}
+
+/* *************************codebase2.html file 320px to 570px COMPLETED************************************* */
+
+
+@media screen and (min-width:571px) and (max-width:720px) {
+
+    .main{
+        flex-direction: column;
+        margin: 10px !important;
+    }
+    .father{
+        width: unset !important;
+        margin: 34px 15px !important;
+    }
+    .image{
+        left: 205px !important;
+    }
+    .heading{
+        width: unset !important;
+        height: unset !important;
+        padding: 0px !important;
+    }
+    .iconi{
+        margin: 0px !important;
+    }
+
+    
+}
+
+/* *************************codebase2.html file 571px to 720px COMPLETED************************************* */
+
+@media screen and (min-width:320px) and (max-width:570px) {
+
+    .bag4 {
+        flex-direction: column !important;
+    }
+    .bag5{
+        padding: 0px !important;
+    }
+    .bag2 input{
+        padding: 8px 50px !important;
+    }
+    .bag{
+        height: 773px !important;
+    }
+    .city {
+        flex-direction: column !important;
+        margin-top: 30px !important;
+    }
+    .city1{
+        width: unset !important;
+        margin: 90px 15px !important;
+    }
+    .cityimage{
+        width: 106.99px !important;
+        height: 106.99px !important;
+        left: 102px !important;
+        top: 37px !important;
+    }
+    .cityimage1{
+        top: 396px !important;
+        left: 99px !important;
+    }
+    .givecall{
+        margin-top: -34px !important;
+    }
+}
+
+/* *************************codebasecontact.html file 320px to 570px COMPLETED************************************* */
+
+@media screen and (min-width:571px) and (max-width:720px) {
+
+    .bag4{
+        flex-direction: column;
+    }
+    .bag2 input{
+        padding: 13px 170px !important;
+    }
+    .bag5{
+        padding: 0px !important;
+    }
+    .bag{
+        height: 779px !important;
+    }
+    .city{
+        flex-direction: column;
+        margin-top: 89px !important;
+    }
+    .city1{
+        margin: 80px 15px !important;
+    }
+    .cityimage{
+        top: 22px !important;
+        left: 257px !important;
+    }
+
+    .cityimage1{
+        top: 351px !important;
+        left: 257px !important;
+    }
+    .givecall{
+        margin: 0px !important;
+    }
+    .cap{
+        margin-top: 67px !important;
+    }
+}
+
+
+/* *************************codebasecontact.html file 571px to 720px COMPLETED************************************* */
+
+
+@media screen and (min-width:320px) and (max-width:570px) {
+
+    .department select{
+        display: flex !important;
+        padding: 5px !important;
+        margin: 5px 10px 10px 88px !important ;
+    }
+    .azure{
+        flex-direction: column;
+        margin: 0px !important;
+        padding: 12px !important;
+    }
+    .breezy1{
+        flex-direction: column;
+        height: 96.98px !important;
+    }
+    .company{
+        flex-direction: column;
+    }
+    .company1 span a{
+        margin: 0px 14px !important;
+        padding: 0px !important;
+    }
+}
+
+/* *************************codebaseapplyforjob.html file 320px to 570px COMPLETED************************************* */
+
+
+@media screen and (min-width:571px) and (max-width:720px) {
+
+    .company{
+        flex-direction: column;
+        height: 90px !important;
+    }
+    .company1 span a{
+        padding: 5px !important;
+    }
+    .azure{
+        flex-direction: column;
+        margin: 0px !important;
+    }
+    .breezy1 {
+        flex-direction: column;
+    }
+}
+
+/* *************************codebaseapplyforjob.html file 571px to 720px COMPLETED************************************* */
