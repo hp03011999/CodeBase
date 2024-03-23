@@ -2,12 +2,39 @@
 
     header
     {
-        display: none !important;
+        flex-direction: column;
+    }
+    .list ul{
+        flex-direction: column;
+    }
+    .earth2 h1 {
+        font-size: 27px !important;
+        line-height: unset !important;
+        
+    }
+    .mars2{
+        width: 100% !important;
     }
     .earth
     {
         flex-direction: column;
-        margin: 0 !important;
+        /* margin: 0 !important; */
+        margin-top: 58px !important;
+    }
+    .mars span {
+        
+        font-size: 25px !important;
+        line-height: 0px !important;
+    }
+    .jupiter1{
+        font-size: 25px !important;
+        line-height: unset !important;
+    }
+    .list1 {
+        margin-top: 30px !important;
+    }
+    .earth2 p {
+        margin: 16px 0px !important;
     }
     .earth2
     {
@@ -17,7 +44,7 @@
     {
         margin: 0 !important;
         height: unset !important;
-        width: 385px !important;
+        width: 100% !important;
     }
     .venus1
     {
@@ -34,7 +61,7 @@
         margin: 0 !important    ;
     }
     .jupiter{
-        width: 388px !important;
+        width: 100% !important;
     }
     .jupiter3
     {
@@ -44,12 +71,16 @@
         padding: 0px !important;
         margin:10px !important;
     }
+    
     .saturn1 h1
     {
+        font-size: 25px !important;
+        line-height: unset !important;
         padding: 20px !important;
     }
     .saturn2
     {
+        margin: 0px !important;
         flex-direction: column;
     }
     .saturn3{
@@ -70,11 +101,15 @@
     }
     .neptunehead
     {
+        font-size: 15px !important;
         padding: 20px !important;
     }
     .neptune1
     {
         flex-direction: column;
+    }
+    .neptune{
+        padding: 63px 28px !important;
     }
     .bottom
     {
@@ -104,17 +139,23 @@
 /* *************************codebase.html file 320px to 570px COMPLETED************************************* */
 
 
-@media screen and (min-width:571px) and (max-width:720px) {
+@media screen and (min-width:570px) and (max-width:1024px) {
     header{
-        flex-direction: column !important;
+        flex-direction: column;
+        height: 80px !important;
+       
         padding: 0px !important;
+    }
+    .earth2 h1 {
+        font-size: 37px !important;
+        line-height: unset !important;
     }
     .earth{
         flex-direction: column;
         margin-top: 81px !important;
     }
     .earth1{
-        width: unset !important;
+        width: 100% !important;
         height: unset !important;
         margin: 0px !important;
     }
@@ -122,11 +163,11 @@
         width: unset !important;
         margin: 20px !important;
     }
-    .venus1{
+    /* .venus1{
         flex-direction: column;
         margin: 30px 20px !important;
         padding: 10px 10px !important;
-    }
+    } */
     .mars{
         margin: 0px !important;
     }
@@ -134,14 +175,29 @@
         flex-direction: column;
     }
     .mars2{
+        width: 95% !important;
         margin: 10px 10px !important;
     }
     .jupiter2 {
         flex-direction: column;
         margin: 0px !important;
     }
+    .jupiter3 {
+        width: 89% !important;
+    }
+    .jupiterimg{
+
+        margin: auto !important;
+    }
+    .saturn1 h1{
+        font-size: 38px !important;
+        line-height: unset !important;
+    }
     .saturn1 h1{
         padding: 0px !important;
+    }
+    .uranusimg{
+        width: 100% !important;
     }
     .saturn2{
         flex-direction: column;
@@ -151,7 +207,9 @@
         width: unset !important;
     }
     .uranusmain{
-        flex-direction: column !important;
+        /* flex-direction: column !important; */
+        text-align: unset !important;
+        width: 100% !important;
     }
     .uranus1{
         flex-direction: column;
@@ -162,10 +220,13 @@
     }
     .bottom h1{
         padding: 32px 0px 0px 24px !important;
+        text-align: center !important;
     }
-    .wall{
+    .wall {
+        margin-left: 55px;
+        margin-top: 20px;
         flex-direction: column;
-        padding: 30px !important;
+        
     }
 }
 
@@ -173,6 +234,25 @@
 
 @media screen and (min-width:320px) and (max-width:570px) {
     
+
+    header{
+        flex-direction: column;
+    }
+    .headlist ul {
+        flex-direction: column;
+    }
+    .headlist {
+        margin-right: 0px !important;
+    }
+    .godfather{
+        margin-top: 50px !important;
+    }
+    .hiredeveloper {
+        margin-top: 25px !important;
+    }
+    .hiredeveloper a {
+        padding: 9px 5px !important;
+    }
     .main{
         flex-direction: column;
         margin-top: 0px !important;
@@ -205,7 +285,7 @@
 /* *************************codebase2.html file 320px to 570px COMPLETED************************************* */
 
 
-@media screen and (min-width:571px) and (max-width:720px) {
+@media screen and (min-width:570px) and (max-width:1024px) {
 
     .main{
         flex-direction: column;
@@ -237,8 +317,15 @@
     .bag4 {
         flex-direction: column !important;
     }
+    .cap {
+       
+        margin-top: 78px !important;
+    }
     .bag5{
         padding: 0px !important;
+    }
+    #submittted{
+        margin-left: 7rem !important;
     }
     .bag2 input{
         padding: 8px 50px !important;
@@ -271,7 +358,7 @@
 
 /* *************************codebasecontact.html file 320px to 570px COMPLETED************************************* */
 
-@media screen and (min-width:571px) and (max-width:720px) {
+@media screen and (min-width:571px) and (max-width:1024px) {
 
     .bag4{
         flex-direction: column;
@@ -307,6 +394,9 @@
     .cap{
         margin-top: 67px !important;
     }
+    .bag5 textarea {
+        width: 66% !important;
+    }
 }
 
 
@@ -341,7 +431,7 @@
 /* *************************codebaseapplyforjob.html file 320px to 570px COMPLETED************************************* */
 
 
-@media screen and (min-width:571px) and (max-width:720px) {
+@media screen and (min-width:570px) and (max-width:1024px) {
 
     .company{
         flex-direction: column;

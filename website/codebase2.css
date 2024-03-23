@@ -343,7 +343,8 @@ padding: 0px 5px;
 .marsimage{
     width: 100px;
     height: 100px;
-    padding: 31px 0px 0px 86px;
+    /* padding: 31px 0px 0px 86px; */
+    margin: auto;
     
 }
 
@@ -426,6 +427,7 @@ padding: 0px 5px;
 }
 .jupiter{
     background-image: url(earth.avif);
+    
 }
 .jupiterimg{
     width: 117px;
@@ -633,9 +635,8 @@ padding: 0px 18px;
 .bag2{
     margin-top: 64px;
 }
-.bag5{
-    padding-left: 148px;
-    
+.bag5 {
+    padding-left: 9rem;
 }
 .bag5 textarea{
     width: 89%;
@@ -951,3 +952,5 @@ color: #4267b2;
     color: #0077b5;
    
     }
+
+    
